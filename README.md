@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <header>
-  <img src="https://i.pinimg.com/originals/dd/c8/86/ddc886fd70cd8e8ddb754dbcfd879aac.gif"/>
+  <img src="[https://i.pinimg.com/originals/dd/c8/86/ddc886fd70cd8e8ddb754dbcfd879aac.gif](https://i.redd.it/ysjmgc31psna1.gif)"/>
 </header>
 
 <p align="center"> 
