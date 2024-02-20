@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<header>
+  <img src="https://i.pinimg.com/originals/dd/c8/86/ddc886fd70cd8e8ddb754dbcfd879aac.gif"/>
+</header>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/BekBekBekp3/count.svg" />
