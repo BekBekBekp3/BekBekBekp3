@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<header align="center">
-  <img  width= 600px src="https://i.redd.it/gbbd9km063y51.png"/>
+<header>
+  <img  align="center" width= 600px src="https://i.redd.it/gbbd9km063y51.png"/>
 </header>
 
 <p align="center"> 
