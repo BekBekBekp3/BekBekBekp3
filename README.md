@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋, My Name is Bek
 
 <img  margin="50%" width= 600px src="https://i.redd.it/gbbd9km063y51.png"/>
 
