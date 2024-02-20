@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img  align="center" width= 600px src="https://i.redd.it/gbbd9km063y51.png"/>
+<img  margin="50%" width= 600px src="https://i.redd.it/gbbd9km063y51.png"/>
 
 <p align="center"> 
   Visitor count<br>
