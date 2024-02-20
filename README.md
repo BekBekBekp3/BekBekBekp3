@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<header>
+<header align="center">
   <img  width= 600px src="https://i.redd.it/gbbd9km063y51.png"/>
 </header>
 
