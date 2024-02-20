@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <header>
-  <img src="https://i.redd.it/ysjmgc31psna1.gif"/>
+  <img  width= 300px src="https://i.redd.it/ysjmgc31psna1.gif"/>
 </header>
 
 <p align="center"> 
